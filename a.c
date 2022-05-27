@@ -1,5 +1,9 @@
 #include<stdio.h>
 
+int pull()
+{
+}
+
 int multiply(int a)
 {
 	return a;
