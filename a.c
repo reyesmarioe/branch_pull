@@ -1,5 +1,10 @@
 #include<stdio.h>
 
+int multiply(int a)
+{
+	return a;
+}
+
 int sum(int a, int b)
 {
 	return a + b;
